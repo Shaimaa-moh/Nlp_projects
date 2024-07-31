@@ -7,7 +7,7 @@ It involves various tasks such as text analysis, language translation, sentiment
 - Remove elongation and numbers , meaningless emojis 
 - Replace the meaningful emojis to their text meaning in arabic
 - Apply ar-corrector to check the mispelling of the word 
-- Tokenize the tweets
+- Tokenize the text
 - Remove the stop words
 - Check all characters are arabic
 - Do the stemming and lemitization
