@@ -1,7 +1,7 @@
-# Natural Language Processing 
+# Natural Language Processing  ✍️🌐
 NLP is a field of artificial intelligence that focuses on the interaction between computers and humans through natural language. 
 It involves various tasks such as text analysis, language translation, sentiment analysis, and information retrieval.
-# Nlp Preprocessing
+# Preprocessing steps
 - Translate the english words and franko to arabic
 - Remove arabic noise like diacritics and punctuation
 - Remove elongation and numbers , meaningless emojis 
