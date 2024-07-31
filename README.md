@@ -18,3 +18,7 @@ The TF-IDF value increases proportionally to the number of times a word appears 
 Using TF-IDF vectors, we can measure the similarity between documents by computing the cosine similarity between their vectors.
 Cosine similarity is a metric used to measure how similar two documents are, irrespective of their size.
 By converting text descriptions to TF-IDF vectors and computing similarities, we can match text queries to relevant information.
+# Sentiment Analysis 😊😢
+Sentiment analysis involves determining the sentiment or emotional tone of a piece of text. 
+This can be done by training models on labeled data where the sentiment (positive, negative, neutral) is known. TF-IDF vectors are used to represent the text for model training and prediction.
+
